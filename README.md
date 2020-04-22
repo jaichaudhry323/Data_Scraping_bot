@@ -17,15 +17,15 @@ E.g TRY RUN -->
 PS D:\Jai\To_be_uploaded_to_github\Scraping> D:\Jai\To_be_uploaded_to_github^C
 PS D:\Jai\To_be_uploaded_to_github\Scraping> python scraper.py
 1->write to file , 0-> dont write to file
-1
+1 
 ENTER TABLE NUMBER 0 or 1 or 2
-1
+1 
 ENTER FILE NUMBER
-2
+2 
 SURE U WANNA CREATE THIS FILE ?? 0 or 1
-1
+1 
 ENTER THE NUMBER OF LINKS U WANT TO SCRAP TOGETHER
-2
+2 
 enter the url containing links to posts u wanna scrape
 https://forum.ge/?showforum=29
 ENTER THE LOWER LIMIT FOR THIS BASE_URL
