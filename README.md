@@ -42,16 +42,25 @@ enter the url containing links to posts u wanna scrape
 https://forum.ge/?showforum=29
 
 ENTER THE LOWER LIMIT FOR THIS BASE_URL
+
 0
 
 ENTER THE UPPER LIMIT FOR THIS BASE_URL
+
 1000
+
 enter the url containing links to posts u wanna scrape
+
 https://forum.ge/?showforum=20
+
 ENTER THE LOWER LIMIT FOR THIS BASE_URL
+
 0
+
 ENTER THE UPPER LIMIT FOR THIS BASE_URL
+
 1000
+
 BASE_URL= https://forum.ge/?showforum=29
 NUMBER OF PAGES WITH LINKS: 52
 
