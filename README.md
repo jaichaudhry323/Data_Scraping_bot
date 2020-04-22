@@ -12,7 +12,7 @@ Copy the link of any topic U want to scrape from then paste it in the powershell
 E.g U can choose Politics , Science and Education , Melomania , cinema , Photography   topic's link 
 
 
-E.g TRY RUN --> 
+E.g TRY RUN -->  https://pastebin.com/SJFsAMhX
 
 PS D:\Jai\To_be_uploaded_to_github\Scraping> python scraper.py
 
@@ -65,9 +65,13 @@ BASE_URL= https://forum.ge/?showforum=29
 NUMBER OF PAGES WITH LINKS: 52
 
 SCRAPING PAGE WITH POST LINKS :  1
+
 TOTAL ROWS= 43
+
 D
+
 topicname: საგანგებო მდგომარეობა ქვეყანაში  thread_author IOSKAMAN  views 5307
+
 link https://forum.ge/?s=a352a72837f0b6518e3a61c868793d20&f=29&showtopic=35145694
 
 WRITING TO LINK_F
