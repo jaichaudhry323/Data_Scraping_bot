@@ -62,6 +62,7 @@ ENTER THE UPPER LIMIT FOR THIS BASE_URL
 1000
 
 BASE_URL= https://forum.ge/?showforum=29
+
 NUMBER OF PAGES WITH LINKS: 52
 
 SCRAPING PAGE WITH POST LINKS :  1
@@ -75,7 +76,9 @@ topicname: საგანგებო მდგომარეობა ქვ�
 link https://forum.ge/?s=a352a72837f0b6518e3a61c868793d20&f=29&showtopic=35145694
 
 WRITING TO LINK_F
+
 SUCCESSFULL LINK PRINTING
+
 NUMBER OF PAGES: 3
 
 SCRAPING PAGE :  1
