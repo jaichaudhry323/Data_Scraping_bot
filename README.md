@@ -3,7 +3,7 @@ Data_Scraping_bot for this site -->  https://forum.ge/?act=idx
 
 On windows powershell prompt go to folder directory in which scrapper file is present 
 
-Write on powershell or on terminal of ubuntu
+Write on powershell or on terminal of ubuntu <br/>
 python scrapper.py  (for windows)  OR ELSE    python3 scrapper.py    (for ubuntu)
 
 then go to this site https://forum.ge/?act=idx
