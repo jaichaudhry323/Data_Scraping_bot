@@ -1,5 +1,11 @@
-# Data_Scraping_bot
-Data_Scraping_bot for this site -->  https://forum.ge/?act=idx
+# Data_Scraping_bot (Made during Internship)
+<b>For this site --></b>  https://forum.ge/?act=idx
+<p>
+<img src="https://user-images.githubusercontent.com/42890838/95018174-9e35c480-067b-11eb-9da3-32bf6228db47.jpg" width="1200px" height="800px">
+
+<img src="https://user-images.githubusercontent.com/42890838/95018175-9fff8800-067b-11eb-86a7-d045918fa563.jpg" width="1200px" height="800px">
+
+</p>
 
 On windows powershell prompt go to folder directory in which scrapper file is present 
 
@@ -11,9 +17,7 @@ then go to this site https://forum.ge/?act=idx
 Copy the link of any topic U want to scrape comments from, then paste it in the powershell when the program asks for link<br/>
 E.g U can choose Politics , Science and Education , Melomania , cinema , Photography   topic's link 
 
-
-Sample TRY RUN -->  https://pastebin.com/SJFsAMhX
-
+<b>Sample TRY RUN --></b>  https://pastebin.com/SJFsAMhX
 
 <br>
 <br>
