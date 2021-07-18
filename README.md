@@ -10,7 +10,7 @@
 On windows powershell prompt go to folder directory in which scrapper file is present 
 
 Write on powershell or on terminal of ubuntu <br/>
-<b>python scrapper.py  (for windows)  <br/>OR ELSE<br/>python3 scrapper.py    (for ubuntu)<b>
+<b>python scrapper.py  (for windows)  <br/>OR ELSE<br/>python3 scrapper.py    (for ubuntu)</b>
 
 then go to this site https://forum.ge/?act=idx
 
