@@ -1,9 +1,9 @@
 # Data_Scraping_bot (Made during Internship)
 <b>For this site --></b>  https://forum.ge/?act=idx
 <p>
-<img src="https://user-images.githubusercontent.com/42890838/95018174-9e35c480-067b-11eb-9da3-32bf6228db47.jpg" width="1200px" height="800px">
+<img src="https://user-images.githubusercontent.com/42890838/95018174-9e35c480-067b-11eb-9da3-32bf6228db47.jpg" >
 
-<img src="https://user-images.githubusercontent.com/42890838/95018175-9fff8800-067b-11eb-86a7-d045918fa563.jpg" width="1200px" height="800px">
+<img src="https://user-images.githubusercontent.com/42890838/95018175-9fff8800-067b-11eb-86a7-d045918fa563.jpg" >
 
 </p>
 
